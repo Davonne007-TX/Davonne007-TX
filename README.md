@@ -1,6 +1,6 @@
 ## Welcome World 🌎
 
-My name is Davonne, I am a Frontend Web Developer buidling UI Projects, leaning towards the UI/UX route
+My name is Davonne, I am a Frontend Web Developer building UI Projects, leaning towards the UI/UX route
 , as well as in pursuit working my way to Fullstack Development. My Github consists of projects I built
 along this jouney, from being self taught, to a Coding Bootcamp, to today owning my craft, and building
 skills to land a role. From serious projects, to projects for fun, I enjoy coding and plan to keep
