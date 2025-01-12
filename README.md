@@ -16,7 +16,7 @@ Interests
 - 📜 History
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davonne007-TX)](https://github.com/Davonne007-TX/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TXa&show_icons=true&theme=transparent)
 
 <!--
 **Davonne007-TX/Davonne007-TX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
