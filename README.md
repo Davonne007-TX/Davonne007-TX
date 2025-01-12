@@ -1,22 +1,22 @@
 ## Welcome World 🌎
 
-My name is Davonne, I am a Frontend Web Developer buidling UI Projects, leaning towards the UI/UX route, as well as in pursuit working my way to Fullstack Development. My Github consists of projects I built along this jouney, from being self taught, to a Coding Bootcamp, to today owning my craft, and building skills to land a role. From serious projects, to projects for fun, I enjoy coding and plan to keep growing as a Dev and expanding my knowledge. 
+My name is Davonne, I am a Frontend Web Developer buidling UI Projects, leaning towards the UI/UX route
+, as well as in pursuit working my way to Fullstack Development. My Github consists of projects I built
+along this jouney, from being self taught, to a Coding Bootcamp, to today owning my craft, and building
+skills to land a role. From serious projects, to projects for fun, I enjoy coding and plan to keep
+growing as a Dev and expanding my knowledge. 
 
 - 💻 I an currently working on UI Frontend Projects in React.js
 - ✨ I am currently learning TypeScript and always React.js
 - 💡 I am interested in Backend Development and Java
 
-Interests:               
+Interests             
 - 🚀 Outer Space         
 - 🌏 Earth Science        
 - 📜 History
 
-Hobbies:             
-- 🏀 Baskeball
-- 🎤 Singing
-- ⌨️ Coding
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX)](https://github.com/Davonne007-TX/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Davonne007-TX=anuraghazra)](https://github.com/Davonne007-TX/github-readme-stats)
 
 <!--
 **Davonne007-TX/Davonne007-TX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
