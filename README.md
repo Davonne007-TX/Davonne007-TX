@@ -16,7 +16,7 @@ Interests
 - 📜 History
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX&theme=shadow_green&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX&theme=omni&show_icons=true)
 
 <!--
 **Davonne007-TX/Davonne007-TX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
