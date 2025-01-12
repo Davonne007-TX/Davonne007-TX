@@ -10,10 +10,15 @@ growing as a Dev and expanding my knowledge.
 - ✨ I am currently learning TypeScript and always React.js
 - 💡 I am interested in Backend Development and Java
 
-Interests             
+Interests                         
 - 🚀 Outer Space         
 - 🌏 Earth Science        
-- 📜 History
+- ⭐ Leadership and Sales
+
+Hobbies
+- 🏀 Basketball
+- 🎤 Singing
+- 🔥 Coding
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX&theme=omni&show_icons=true)
