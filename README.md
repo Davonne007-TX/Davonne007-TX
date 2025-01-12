@@ -6,12 +6,15 @@ My name is Davonne, I am a Frontend Web Developer buidling UI Projects, leaning 
 - ✨ I am currently learning TypeScript and always React.js
 - 💡 I am interested in Backend Development and Java
 
-Interests:                   Hobbies
-- 🚀 Outer Space            - 🏀 Baskeball
-- 🌏 Earth Science          - 🎤 Singing
-- 📜 History                - ⌨️ Coding
+Interests:               
+- 🚀 Outer Space         
+- 🌏 Earth Science        
+- 📜 History
 
-
+Hobbies:             
+- 🏀 Baskeball
+- 🎤 Singing
+- ⌨️ Coding
 
 <!--
 **Davonne007-TX/Davonne007-TX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
