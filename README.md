@@ -1,4 +1,17 @@
-## Hi there 👋
+## Welcome World 🌎
+
+My name is Davonne, I am a Frontend Web Developer buidling UI Projects, leaning towards the UI/UX route, as well as in pursuit working my way to Fullstack Development. My Github consists of projects I built along this jouney, from being self taught, to a Coding Bootcamp, to today owning my craft, and building skills to land a role. From serious projects, to projects for fun, I enjoy coding and plan to keep growing as a Dev and expanding my knowledge. 
+
+- 💻 I an currently working on UI Frontend Projects in React.js
+- ✨ I am currently learning TypeScript and always React.js
+- 💡 I am interested in Backend Development and Java
+
+Interests:                   Hobbies
+- 🚀 Outer Space            - 🏀 Baskeball
+- 🌏 Earth Science          - 🎤 Singing
+- 📜 History                - ⌨️ Coding
+
+
 
 <!--
 **Davonne007-TX/Davonne007-TX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
