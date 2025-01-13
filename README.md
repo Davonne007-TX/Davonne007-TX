@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/l2Jhu9OrGRImXT4Kk" width="480" height="322" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-happy-holidays-l2Jhu9OrGRImXT4Kk">via GIPHY</a></p>
+
 ## Welcome World 🌎
 
 My name is Davonne, I am a Frontend Web Developer building UI Projects, leaning towards the UI/UX route,
