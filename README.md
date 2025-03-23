@@ -1,6 +1,6 @@
 ## Hello World 🌎
 
-My name is Davonne, I am a Frontend Web Developer staying focused learning the neccessary skills to land a role. Although I am a developer, I love design. I can't get away from it. I want to build what others design and I really like the concept of the bridge between deign and code. 
+My name is Davonne, I am a Frontend Web Developer staying focused learning the neccessary skills to land a role. Although I am a developer, I love design. I can't get away from it. I want to build what others design and I really like the concept of the bridging the gap between design and code.
 
 My Github consists of projects I built along this jouney, from being self taught, to a Coding Bootcamp, to today owning my craft. From serious projects, to projects for fun, I enjoy coding and plan to keep growing as a Developer. 
 
