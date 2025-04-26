@@ -19,7 +19,7 @@ Hobbies
 - 🎥 Movies
 - 🔥 Coding
 - 💻 Post on Youtube -  https://www.youtube.com/@davonne007
-- Build on Twitter - https://x.com/Davonne007
+- 💻 Builiding in Public on Twitter - https://x.com/Davonne007
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX&theme=omni&show_icons=true)
 
