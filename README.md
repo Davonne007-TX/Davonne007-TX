@@ -18,8 +18,7 @@ Hobbies
 - 🏀 Basketball
 - 🎥 Movies
 - 🔥 Coding
-- 💻 Casually Post on Youtube -  https://www.youtube.com/@davonne007
-- 💻 Builiding in Public on Twitter - https://x.com/Davonne007
+- 🎧 Listening to 2000s music
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX&theme=omni&show_icons=true)
 
