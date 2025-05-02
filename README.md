@@ -13,6 +13,7 @@ Interests
 - 🚀 Outer Space         
 - 🌏 Earth Science        
 - ⭐ Leadership and Sales
+- ✨ Marketing 
 
 Hobbies
 - 🏀 Basketball
