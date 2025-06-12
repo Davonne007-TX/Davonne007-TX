@@ -1,13 +1,8 @@
 ## Hello World 🌎
 
-Its me, Davonne here..! Night owl developer making my way to land my first role in tech.  
-Although I am a developer, I love design. I can't get away from it. It brings me joy
-to bring a desin to life. I want to build what others design and I really like the 
-concept of the bridging the gap between design and code. 
+Its me, Davonne here..! Night owl developer making my way to land my first role in tech. Although I am a developer, I love design. I can't get away from it. It brings me joy to bring a desin to life. I want to build what others design and I really like the concept of the bridging the gap between design and code. 
 
-My Github consists of projects I built along this jouney, from being self taught, to a
-Coding Bootcamp, to today owning my craft. From serious projects, to projects for fun,
-I enjoy coding and plan to keep growing as a Developer. 
+My Github consists of projects I built along this jouney, from being self taught, to a Coding Bootcamp, to today owning my craft. From serious projects, to projects for fun, I enjoy coding and plan to keep growing as a Developer. 
 
 - 💻 I am currently building sites for local small businesses
 - ✨ Learning TypeScript, React.js, and forever a JavaScript learner  
