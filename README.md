@@ -3,7 +3,7 @@
 Its me, Davonne here..! Night owl developer making my way to land my first role in tech. 
 
 🚀 Projects 
-My GitHub is a collection of the work I’ve done on my journey, from being self taught, to a Coding Bootcamp, to today owning my craft. From serious projects, to projects for fun, I enjoy coding and plan to keep growing as a Developer. 
+- My GitHub is a collection of the work I’ve done on my journey, from being self taught, to a Coding Bootcamp, to today owning my craft. From serious projects, to projects for fun, I enjoy coding and plan to keep growing as a Developer. 
 
 
 🧠 About Me
