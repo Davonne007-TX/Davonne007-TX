@@ -22,6 +22,6 @@ Its me, Davonne here..! Night owl developer making my way to land my first role 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX&theme=omni&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Davonne007-TX&theme=violet-dark&border_radius=16.4&background=000000BD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Davonne007-TXx&theme=javascript&mode=weekly)](https://git.io/streak-stats)
 
 
