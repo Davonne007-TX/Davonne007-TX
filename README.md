@@ -19,7 +19,6 @@ Its me, Davonne here..! Night owl developer making my way to land my first role 
 * 🥋 Karate
 * 🎧 Old hip hop & rock music
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX)](https://github.com/Davonne007-TX/github-readme-stats)
 
 
 
