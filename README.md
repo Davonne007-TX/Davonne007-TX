@@ -20,8 +20,5 @@ Its me, Davonne here..! Night owl developer making my way to land my first role 
 * 🎧 Old hip hop & rock music
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX&theme=omni&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Davonne007-TX&theme=javascript&mode=weekly)](https://git.io/streak-stats)
 
 
