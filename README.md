@@ -21,4 +21,3 @@ Its me, Davonne!  Night owl developer making my way to land my first role in tec
 * 🎧 90's, 2000's hip hop & rock music
 
 ![Davonne007-TX's Stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Davonne007-TX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davonne007-TX&theme=dracula&hide_border=true)
