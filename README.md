@@ -20,6 +20,5 @@ Its me, Davonne here..! Night owl developer making my way to land my first role 
 * 🥋 Karate
 * 🎧 Old hip hop & rock music
 
-
-
-
+* 
+![Davonne007-TX's Stats](https://github-readme-stats.vercel.app/api?username=Davonne007-TX&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)* 
