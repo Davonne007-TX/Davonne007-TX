@@ -10,7 +10,7 @@ Its me, Davonne!  Night owl developer making my way to land my first role in tec
 * 💻 Currently building websites for local small businesses
 * 🌱 Building projcts in React.js, React Router, gettting into TypeScript
 * 🔥 Strengthening my JavaScript skills and overall fundementals
-* 🎯 Pursuing Full-Stack Development using Node.js, Express, and technologies in the Java ecosystem
+* 🎯 Pursuing Full-Stack Development using Node.js, Express, PostgreSQL, and technologies in the Java ecosystem
 * 🤖 Exploring AI technologies. It is the future and I want to be part of it. Currently using Claude, ChatGPT, Google Gemini.
 * 🎨 Background in sales, leadership, and a passion for creative marketing
   
